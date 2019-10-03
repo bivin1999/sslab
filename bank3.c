@@ -1,4 +1,4 @@
-        #include <stdio.h>
+        #include <stdio.h>//bivin
             void main()
             {
                 int p,r,i,j,k,count=0,x,l;

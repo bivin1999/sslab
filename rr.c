@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>//bivin
 int isFinish(int burst[],int n);
 int isFinish(int burst[],int n){
     
